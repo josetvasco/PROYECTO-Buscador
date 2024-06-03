@@ -9,14 +9,14 @@ const autos = [
 		transmision: 'automatico'
 	},
 	{ 
-        marca: 'Audi', 
-        modelo: 'A4', 
-        year: 2020, 
-        precio: 40000, 
-        puertas: 4, 
-        color: 'Negro', 
-        transmision: 'automatico' 
-    },
+		marca: 'Audi', 
+		modelo: 'A4', 
+		year: 2020, 
+		precio: 40000, 
+		puertas: 4, 
+		color: 'Negro', 
+		transmision: 'automatico' 
+	},
 	{
 		marca: 'Ford',
 		modelo: 'Mustang',
@@ -27,14 +27,14 @@ const autos = [
 		transmision: 'automatico'
 	},
 	{ 
-        marca: 'Audi', 
-        modelo: 'A6', 
-        year: 2020, 
-        precio: 35000, 
-        puertas: 4, 
-        color: 'Negro', 
-        transmision: 'automatico' 
-    },
+		marca: 'Audi', 
+		modelo: 'A6', 
+		year: 2020, 
+		precio: 35000, 
+		puertas: 4, 
+		color: 'Negro', 
+		transmision: 'automatico' 
+	},
 	{
 		marca: 'BMW',
 		modelo: 'Serie 5',
@@ -63,14 +63,14 @@ const autos = [
 		transmision: 'manual'
 	},
 	{ 
-        marca: 'Ford', 
-        modelo: 'Mustang', 
-        year: 2019, 
-        precio: 80000, 
-        puertas: 2, 
-        color: 'Rojo', 
-        transmision: 'manual' 
-    },
+		marca: 'Ford', 
+		modelo: 'Mustang', 
+		year: 2019, 
+		precio: 80000, 
+		puertas: 2, 
+		color: 'Rojo', 
+		transmision: 'manual' 
+	},
 	{
 		marca: 'Dodge',
 		modelo: 'Challenger',
@@ -81,15 +81,15 @@ const autos = [
 		transmision: 'automatico'
 	},
 	{ 
-        marca: 'Audi', 
-        modelo: 'A3', 
-        year: 2017, 
-        precio: 55000, 
-        puertas: 2, 
-        color: 'Negro', 
-        transmision: 
-        'manual' 
-    },
+		marca: 'Audi', 
+		modelo: 'A3', 
+		year: 2017, 
+		precio: 55000, 
+		puertas: 2, 
+		color: 'Negro', 
+		transmision: 
+		'manual' 
+	},
 	{
 		marca: 'Dodge',
 		modelo: 'Challenger',
@@ -118,14 +118,14 @@ const autos = [
 		transmision: 'automatico'
 	},
 	{ 
-        marca: 'Ford', 
-        modelo: 'Mustang', 
-        year: 2017, 
-        precio: 60000, 
-        puertas: 2, 
-        color: 'Negro', 
-        transmision: 'manual' 
-    },
+		marca: 'Ford', 
+		modelo: 'Mustang', 
+		year: 2017, 
+		precio: 60000, 
+		puertas: 2, 
+		color: 'Negro', 
+		transmision: 'manual' 
+	},
 	{
 		marca: 'Dodge',
 		modelo: 'Challenger',
@@ -163,12 +163,12 @@ const autos = [
 		transmision: 'automatico'
 	},
 	{ 
-        marca: 'Audi', 
-        modelo: 'A4', 
-        year: 2016, 
-        precio: 30000, 
-        puertas: 4, 
-        color: 'Azul', 
-        transmision: 'automatico' 
-    }
+		marca: 'Audi', 
+		modelo: 'A4', 
+		year: 2016, 
+		precio: 30000, 
+		puertas: 4, 
+		color: 'Azul', 
+		transmision: 'automatico' 
+	}
 ];
